@@ -1,0 +1,139 @@
+{
+  "1Configurations": [
+    "Alfa Special Waffle",
+    "Alfa Waffle",
+    "Beyaz Çikolatalı Waffle",
+    "Bitter Waffle",
+    "Çikolatalı Muzlu Çilekli Waffle",
+    "Fıstık Festivali Waffle",
+    "Franboisse Waffle",
+    "Caramelise Waffle",
+    "Perfect Waffle"
+  ],
+  "Alfa Special Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1432367080.jpg",
+      "name": "Alfa Special Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1432367080.jpg",
+      "name": "Alfa Special Waffle",
+      "price": 450
+    }
+  ],
+  "Alfa Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1295758414.jpg",
+      "name": "Alfa Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1295758414.jpg",
+      "name": "Alfa Waffle",
+      "price": 450
+    }
+  ],
+  "Beyaz Çikolatalı Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1348285582.jpg",
+      "name": "Beyaz Çikolatalı Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1348285582.jpg",
+      "name": "Beyaz Çikolatalı Waffle",
+      "price": 450
+    }
+  ],
+  "Bitter Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1694658686.jpg",
+      "name": "Bitter Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1694658686.jpg",
+      "name": "Bitter Waffle",
+      "price": 450
+    }
+  ],
+  "Çikolatalı Muzlu Çilekli Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Çikolatalı Muzlu Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Çikolatalı Muzlu Waffle",
+      "price": 450
+    }
+  ],
+  "Fıstık Festivali Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1295658808.jpg",
+      "name": "Fıstık Festifali Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1295658808.jpg",
+      "name": "Fıstık Festifali Waffle",
+      "price": 450
+    }
+  ],
+  "Franboisse Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/754581986.jpg",
+      "name": "Franboisse Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/754581986.jpg",
+      "name": "Franboisse Waffle",
+      "price": 450
+    }
+  ],
+  "Caramelise Waffle": [
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1777713586.jpg",
+      "name": "Caramelise Waffle",
+      "price": 450
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1777713586.jpg",
+      "name": "Caramelise Waffle",
+      "price": 450
+    }
+  ],
+  "Perfect Waffle": [
+    {
+      "details": "Perfect Waffle",
+      "image": "https://alfawaffle.com/img/881520085.jpg",
+      "name": "Perfect Waffle",
+      "price": 100
+    },
+    {
+      "details": "Perfect Waffle",
+      "image": "https://alfawaffle.com/img/881520085.jpg",
+      "name": "Perfect Waffle",
+      "price": 160
+    }
+  ]
+}
