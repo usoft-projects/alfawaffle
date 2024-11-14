@@ -1,0 +1,160 @@
+{
+  "1Configurations": [
+    "Alfa Waffle",
+    "Alfa Special Waffle",
+    "Perfect Waffle",
+    "Fıstık Festivali Waffle",
+    "Beyaz Çikolatalı Waffle",
+    "Çikolatalı Muzlu Çilekli Waffle",
+    "Bitter Waffle",
+    "Frambuazlı Waffle",
+    "Karamelize Waffle",
+    "İçecekler"
+  ],
+  "Alfa Special Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, beyaz çikolata, sütlü çikolata, muz, çilek, orman meyveleri, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/1432367080.jpg",
+      "name": "Alfa Special Waffle",
+      "price": 299.99
+    }
+  ],
+  "Alfa Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, beyaz çikolata, sütlü çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/1295758414.jpg",
+      "name": "Alfa Waffle",
+      "price": 269.99
+    }
+  ],
+  "Beyaz Çikolatalı Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, beyaz çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/1348285582.jpg",
+      "name": "Beyaz Çikolatalı Waffle",
+      "price": 249.99
+    }
+  ],
+  "Bitter Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, bitter çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/1694658686.jpg",
+      "name": "Bitter Waffle",
+      "price": 249.99
+    }
+  ],
+  "Karamelize Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, karamelize sos, sütlü çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/1777713586.jpg",
+      "name": "Caramelise Waffle",
+      "price": 249.99
+    }
+  ],
+  "Frambuazlı Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, frambuaz sos, beyaz çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/754581986.jpg",
+      "name": "Franboisse Waffle",
+      "price": 249.99
+    }
+  ],
+  "Fıstık Festivali Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, Antep fıstıklı çikolata, beyaz çikolata, sütlü çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/1295658808.jpg",
+      "name": "Fıstık Festifali Waffle",
+      "price": 299.99
+    },
+    {
+      "details": "Meyveler ve Çikolatalar",
+      "image": "https://alfawaffle.com/img/1295658808.jpg",
+      "name": "Fıstık Festifali Waffle",
+      "price": 450
+    }
+  ],
+  "Perfect Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, beyaz çikolata, sütlü çikolata, frambuaz, böğürtlen, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/881520085.jpg",
+      "name": "Perfect Waffle",
+      "price": 289.99
+    }
+  ],
+  "Çikolatalı Muzlu Çilekli Waffle": [
+    {
+      "details": "Özel JUMBO Belçika hamuru, sütlü çikolata, muz, çilek, fındık, fıstık",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Çikolatalı Muzlu Waffle",
+      "price": 249.99
+    }
+  ],
+  "İçecekler": [
+    {
+      "details": "Çay",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Çay",
+      "price": 25
+    },
+    {
+      "details": "Türk Kahvesi",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Türk Kahvesi",
+      "price": 60
+    },
+    {
+      "details": "Damla Sakızlı Türk Kahvesi",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Damla Sakızlı Türk Kahvesi",
+      "price": 70
+    },
+    {
+      "details": "Menengiç Kahvesi",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Menengiç Kahvesi",
+      "price": 70
+    },
+    {
+      "details": "Nescafe",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Nescafe",
+      "price": 40
+    },
+    {
+      "details": "Sütlü Nescafe",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Sütlü Nescafe",
+      "price": 50
+    },
+    {
+      "details": "Sıcak Çikolata",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Sıcak Çikolata",
+      "price": 70
+    },
+    {
+      "details": "Beyaz Çikolata",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Beyaz Çikolata",
+      "price": 70
+    },
+    {
+      "details": "Salep ",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Salep ",
+      "price": 90
+    },
+    {
+      "details": "Filtre Kahve ",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Filtre Kahve ",
+      "price": 70
+    },
+    {
+      "details": "Sütlü Filtre Kahve",
+      "image": "https://alfawaffle.com/img/2110803226.jpg",
+      "name": "Sütlü Filtre Kahve",
+      "price": 80
+    }
+  ]
+}
